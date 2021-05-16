@@ -93,7 +93,7 @@ export default {
     }
 
     .header_container .header_content .header_wrapper .menu .menu_list .btn .child {
-        color: #ff0000;
+        color: green;
         font-size: 20px;
     }
 
